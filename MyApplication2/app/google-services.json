@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1047014148481",
+    "firebase_url": "https://myapplication2-63775.firebaseio.com",
+    "project_id": "myapplication2-63775",
+    "storage_bucket": "myapplication2-63775.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047014148481:android:5d57cac50d4ec523",
+        "android_client_info": {
+          "package_name": "com.example.vishal.mypersonalchat2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047014148481-d8uo513kmicd3la4t924khver2ooni79.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vishal.mypersonalchat2",
+            "certificate_hash": "EC92113EFF4973F93B76FDC8F162160965762083"
+          }
+        },
+        {
+          "client_id": "1047014148481-cfmutb7pn3mq8b44p3nk4gu6i5tvi06g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6OykdxsWHCvr0nE11jB57GMhaujhp4mA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047014148481-cfmutb7pn3mq8b44p3nk4gu6i5tvi06g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "452971998350",
+    "firebase_url": "https://mypersonlchatapp.firebaseio.com",
+    "project_id": "mypersonlchatapp",
+    "storage_bucket": "mypersonlchatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452971998350:android:261ca0329d816ddf",
+        "android_client_info": {
+          "package_name": "com.example.vishal.mypersonlchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452971998350-ktf0bqkr9vb3n4ivdqffssf2pu8rgjj2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vishal.mypersonlchatapp",
+            "certificate_hash": "EC92113EFF4973F93B76FDC8F162160965762083"
+          }
+        },
+        {
+          "client_id": "452971998350-c9jcghq5fnjebs6gj913jagabptqss17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAplw206-2WW_B74K6GyUErw-6yR9Ao3Cg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452971998350-c9jcghq5fnjebs6gj913jagabptqss17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
